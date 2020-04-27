@@ -14,7 +14,7 @@
 В результате тестирования выявлены следующие дефекты:
 * [Bug#1 Опечатка в руководстве пользователя по установке IntelliJ IDEA, шаг 19 повторяется 2 раза](https://github.com/MIkhail19870105/CreditCardNumberValidatorDemo/issues/1)
 * [Bug#2 При нажатии на ссылку в шаге 19 Руководства по установке IntelliJ IDEA ошибка 404](https://github.com/MIkhail19870105/CreditCardNumberValidatorDemo/issues/2)
-* <ссылка на описание дефекта>
+* [Bug#3 При вводе номера карты превышающего 16 цифр приложение выдает результат FAIL](https://github.com/MIkhail19870105/CreditCardNumberValidatorDemo/issues/3#issue-607433189)
 
 ## Описание процесса тестирования
 
