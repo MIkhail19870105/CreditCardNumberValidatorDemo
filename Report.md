@@ -1,5 +1,4 @@
-# Отчёт о тестировании KeyValidator
-
+# Отчёт о тестировании CreditCardNumberValidator
 ## Краткое описание
 
 27.04.2020 - 27.04.2020 было проведено тестирование методом белого ящика и функциональное тестирование кода CreditCardNumberValidator.
@@ -9,12 +8,13 @@
 ### Чек лист
 * Установить IntelliJ IDEA согласно [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md) **Failed**
 * Проверить работу программы CreditCardNumberValidator **Passed**
-* запускать программу с разными тестовыми данными **Passed**
+* Запускать программу с разными тестовыми данными **Passed**
 
-В результате тестирования выявлены следующие дефекты:
+### В результате тестирования выявлены следующие дефекты:
 * [Bug#1 Опечатка в руководстве пользователя по установке IntelliJ IDEA, шаг 19 повторяется 2 раза](https://github.com/MIkhail19870105/CreditCardNumberValidatorDemo/issues/1)
 * [Bug#2 При нажатии на ссылку в шаге 19 Руководства по установке IntelliJ IDEA ошибка 404](https://github.com/MIkhail19870105/CreditCardNumberValidatorDemo/issues/2)
 * [Bug#3 При вводе номера карты превышающего 16 цифр приложение выдает результат FAIL](https://github.com/MIkhail19870105/CreditCardNumberValidatorDemo/issues/3#issue-607433189)
+* [Bug#4 При вводе номера карты 14 цифр приложение выдает результат FAIL](https://github.com/MIkhail19870105/CreditCardNumberValidatorDemo/issues/4#issue-607440853)
 
 ## Описание процесса тестирования
 
