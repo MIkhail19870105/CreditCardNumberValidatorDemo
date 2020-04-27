@@ -2,14 +2,14 @@
 
 ## Краткое описание
 
-26.04.2020 - 27.04.2020 было проведено тестирование установки и функциональное тестирование приложения KeyValidator.
+27.04.2020 - 27.04.2020 было проведено тестирование методом белого ящика и функциональное тестирование кода CreditCardNumberValidator.
 
 На тестирование затрачено: 1 hour
 
 Чек лист
-* Инструкция по установке OpenJDK11 работает под вашу ОС [Инструкция по установке OpenJDK](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) Passed
-* Приложение запускается и совместимо с Java 11 passed
-* Приложение работает согласно руководству использования [Руководство пользования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md#%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-keyvalidator) Failed
+* Установить IntelliJ IDEA согласно [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md) **Failed**
+* Проверить работу программы CreditCardNumberValidator **Passed**
+* запускать программу с разными тестовыми данными **Passed**
 
 В результате тестирования выявлены следующие дефекты:
 * <ссылка на описание дефекта>
