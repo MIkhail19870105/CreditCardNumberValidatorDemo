@@ -1,1 +1,1 @@
-# Домашнее задание 1.1 Задача 1. KeyValidator
+# Домашнее задание 1.1 Задача 2. Credit Card Number Validator
